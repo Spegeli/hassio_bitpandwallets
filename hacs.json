@@ -1,0 +1,8 @@
+{
+  "name": "Bitpanda Wallets",
+  "url": "https://github.com/Spegeli/hassio_bitpandwallets",
+  "homeassistant": "2025.01.0",
+  "country": "DE",
+  "domains": ["bitpanda_wallets"],
+  "iot_class": "Local Polling"
+}
